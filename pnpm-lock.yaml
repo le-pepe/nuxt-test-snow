@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@le-pepe/nuxt-snow-effect':
-        specifier: 1.2.2
-        version: 1.2.2(magicast@0.5.1)
+        specifier: 1.2.5
+        version: 1.2.5(magicast@0.5.1)
       nuxt:
         specifier: ^4.2.1
         version: 4.2.1(@parcel/watcher@2.5.1)(@vue/compiler-sfc@3.5.24)(db0@0.3.4)(ioredis@5.8.2)(magicast@0.5.1)(rollup@4.53.1)(terser@5.44.1)(vite@7.2.2(jiti@2.6.1)(terser@5.44.1)(yaml@2.8.1))(yaml@2.8.1)
@@ -351,8 +351,8 @@ packages:
   '@kwsites/promise-deferred@1.1.1':
     resolution: {integrity: sha512-GaHYm+c0O9MjZRu0ongGBRbinu8gVAMd2UZjji6jVmqKtZluZnptXGWhz1E8j8D2HJ3f/yMxKAUC0b+57wncIw==}
 
-  '@le-pepe/nuxt-snow-effect@1.2.2':
-    resolution: {integrity: sha512-i72x2vcFHO0KE+CCK4yAMRB52lYmXcOq2/f/DmExXPc5c8MGhUfFVFPRHbVwe8idG6L1nloUCvXx4nyO1lZIXg==}
+  '@le-pepe/nuxt-snow-effect@1.2.5':
+    resolution: {integrity: sha512-+k/7eUD2SeETNmcOBcfFZ+JfIVuWUHjutsBYPxJvGpo1TAK5PemdopnAF4fbeGqMiPXy0LVKMKh7YGWFFOYppA==}
 
   '@le-pepe/snow-effect@0.1.13':
     resolution: {integrity: sha512-q+75sEJCXUCX1ZABcLi/s3M1IVsrtqd23PNSXyzounj6bx5QTFDjo3SVILvnbomIocpe2/TqJ7A4hmXWIu5CwA==}
@@ -3415,7 +3415,7 @@ snapshots:
 
   '@kwsites/promise-deferred@1.1.1': {}
 
-  '@le-pepe/nuxt-snow-effect@1.2.2(magicast@0.5.1)':
+  '@le-pepe/nuxt-snow-effect@1.2.5(magicast@0.5.1)':
     dependencies:
       '@le-pepe/snow-effect': 0.1.13
       '@nuxt/kit': 3.20.1(magicast@0.5.1)
